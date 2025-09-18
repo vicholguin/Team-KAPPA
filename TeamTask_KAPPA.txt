@@ -12,7 +12,7 @@ Victoria Franco
 
 Email: vichol@nmsu.edu 
 
-Task:  
+Task: Developed the first draft of the Exploratory Data Analysis (EDA) code and incorporated it into the report. 
 
  
 
