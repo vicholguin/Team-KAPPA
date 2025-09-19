@@ -35,4 +35,4 @@ Carmen Avitia
 
 Email: cavitia@nmsu.edu 
 
-Task: 
+Task: Added to the Report on the EDA portions and did further anaylsis on the EDA code.
