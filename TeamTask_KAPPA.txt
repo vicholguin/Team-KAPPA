@@ -1,4 +1,12 @@
-Team Task Allocation: Milestone 3 
+Course:CSCI 5415 Data Mining
+Group Project Milestone - Phase 3: Data Collection 
+Group Name: KAPPA
+Data Source:
+-- Global Super Store Dataset: https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset/data
+-- Ecommerce Consumer Behavior Dataset: https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-marketing-2023/data
+
+
+Team Task Allocation: 
 
 Daniela Pedroza Rodriguez   
 
@@ -20,7 +28,7 @@ Ying Yang
 
 Email: yy0816@nmsu.edu 
 
-Task: 
+Task: Conduct further analysis of the EDA code on both datasets, provide commentary on the Global Superstore dataset, and document the data processing steps and tasks in the report.
 
  
 Carmen Avitia   
