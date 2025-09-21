@@ -12,7 +12,7 @@ Daniela Pedroza Rodriguez
 
 Email: dgpedroz@nmsu.edu 
 
-Task:  
+Task:  Added onto the EDA for both datasets, standardized report format, wrote insights on sections of the notebook and finalized report. 
 
  
 
