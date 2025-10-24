@@ -1,5 +1,5 @@
 Course:CSCI 5415 Data Mining
-Group Project Milestone - Phase 3: Data Collection 
+Group Project Milestone - Phase 4: EDA & Classification Code 
 Group Name: KAPPA
 Data Source:
 -- Global Super Store Dataset: https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset/data
@@ -20,7 +20,7 @@ Victoria Franco
 
 Email: vichol@nmsu.edu 
 
-Task: Developed the first draft of the Exploratory Data Analysis (EDA) code for both datasets and incorporated it into the report. 
+Task: Conducted further analysis on both Decision Tree and Random Forest Classifiers. Revised motivation & problem definition in the report as well as added the results and figure for Decision Tree.  
 
  
 
