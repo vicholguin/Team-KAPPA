@@ -35,4 +35,4 @@ Carmen Avitia
 
 Email: cavitia@nmsu.edu 
 
-Task: Did inital analysis for Random Forest and included information about the findings in the report. 
+Task: Did extra EDA analysis and inital analysis for Random Forest, and included information about the findings in the report. 
