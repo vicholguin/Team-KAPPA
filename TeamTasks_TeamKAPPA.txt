@@ -28,7 +28,7 @@ Ying Yang
 
 Email: yy0816@nmsu.edu 
 
-Task: Conduct further analysis of the EDA code on both datasets, provide commentary on the Global Superstore dataset, and document the data processing steps and tasks in the report.
+Task: Conduct further EDA on both datasets, train three models (KNN, Decision Tree, and XGBoost) on each dataset, and revise the key findings for the EDA analysis and model evaluation sections of the report.
 
  
 Carmen Avitia   
