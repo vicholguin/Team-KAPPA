@@ -1,0 +1,15 @@
+antecedents,consequents,support,confidence,lift,leverage,conviction,rule_count,Method
+"frozenset({'Rogers File Cart, Single Width'})","frozenset({'Stanley Pencil Sharpener, Water Color'})",0.0020222446916076846,0.07692307692307693,2.535897435897436,0.0012247973410242701,1.0504718570947085,2,FP-Growth
+"frozenset({'Stanley Pencil Sharpener, Water Color'})","frozenset({'Rogers File Cart, Single Width'})",0.0020222446916076846,0.06666666666666667,2.5358974358974358,0.0012247973410242701,1.0432615917954644,2,Apriori
+"frozenset({'Ibico Index Tab, Clear'})","frozenset({'Avery Index Tab, Clear'})",0.0010111223458038423,0.04761904761904762,2.047619047619048,0.0005173184094810356,1.0255813953488373,1,Apriori
+"frozenset({'Avery Index Tab, Clear'})","frozenset({'Ibico Index Tab, Clear'})",0.0010111223458038423,0.04347826086956522,2.047619047619048,0.0005173184094810356,1.0232558139534884,1,Apriori
+"frozenset({'Eldon File Cart, Single Width'})","frozenset({'Avery Index Tab, Clear'})",0.0010111223458038423,0.04347826086956522,1.8695652173913047,0.0004702894631645779,1.0211416490486258,1,FP-Growth
+"frozenset({'Avery Index Tab, Clear'})","frozenset({'Eldon File Cart, Single Width'})",0.0010111223458038423,0.04347826086956522,1.8695652173913047,0.0004702894631645779,1.0211416490486258,1,FP-Growth
+"frozenset({'Eldon File Cart, Single Width'})","frozenset({'Rogers File Cart, Single Width'})",0.0010111223458038423,0.04347826086956522,1.653846153846154,0.0003997460436898912,1.0179704016913318,1,FP-Growth
+"frozenset({'Rogers File Cart, Single Width'})","frozenset({'Eldon File Cart, Single Width'})",0.0010111223458038423,0.038461538461538464,1.653846153846154,0.0003997460436898912,1.0158139534883721,1,FP-Growth
+"frozenset({'Ibico Index Tab, Clear'})","frozenset({'Stanley Pencil Sharpener, Water Color'})",0.0010111223458038423,0.04761904761904762,1.56984126984127,0.00036703025494800754,1.018149646107179,1,FP-Growth
+"frozenset({'Stanley Pencil Sharpener, Water Color'})","frozenset({'Ibico Index Tab, Clear'})",0.0010111223458038423,0.03333333333333333,1.5698412698412698,0.00036703025494800754,1.0125169973152959,1,Apriori
+"frozenset({'Cardinal Index Tab, Clear'})","frozenset({'Eldon File Cart, Single Width'})",0.0010111223458038423,0.03571428571428572,1.535714285714286,0.00035271709737343343,1.0129198966408268,1,Apriori
+"frozenset({'Eldon File Cart, Single Width'})","frozenset({'Cardinal Index Tab, Clear'})",0.0010111223458038423,0.04347826086956522,1.535714285714286,0.00035271709737343343,1.0158562367864694,1,Apriori
+"frozenset({'Avery Index Tab, Clear'})","frozenset({'Cardinal Index Tab, Clear'})",0.0010111223458038423,0.04347826086956522,1.535714285714286,0.00035271709737343343,1.0158562367864694,1,Apriori
+"frozenset({'Cardinal Index Tab, Clear'})","frozenset({'Avery Index Tab, Clear'})",0.0010111223458038423,0.03571428571428572,1.535714285714286,0.00035271709737343343,1.0129198966408268,1,Apriori
