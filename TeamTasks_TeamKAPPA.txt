@@ -20,7 +20,7 @@ Victoria Franco
 
 Email: vichol@nmsu.edu 
 
-Task: Conducted further analysis on both Decision Tree and Random Forest Classifiers. Revised motivation & problem definition in the report as well as added the results and figure for Decision Tree.  
+Task: Integrated detailed markdown explanations for the Apriori and FP-Growth code, and restructured Sections 3–6 to align with the latest findings.
 
  
 
