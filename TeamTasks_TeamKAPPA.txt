@@ -1,5 +1,5 @@
 Course:CSCI 5415 Data Mining
-Group Project Milestone - Phase 4: EDA & Classification Code 
+Group Project Milestone -Phase 5: Rule Miner Code
 Group Name: KAPPA
 Data Source:
 -- Global Super Store Dataset: https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset/data
@@ -28,7 +28,8 @@ Ying Yang
 
 Email: yy0816@nmsu.edu 
 
-Task: Conduct further EDA on both datasets, train three models (KNN, Decision Tree, and XGBoost) on each dataset, and revise the key findings for the EDA analysis and model evaluation sections of the report.
+Task:  Write the related Rule Miner code on both dataset, and update the Motivation & Problem Definition and EDA Analysis sections of the report.
+
 
  
 Carmen Avitia   
