@@ -36,4 +36,4 @@ Carmen Avitia
 
 Email: cavitia@nmsu.edu 
 
-Task: Did extra EDA analysis and inital analysis for Random Forest, and included information about the findings in the report. 
+Task: Did Apiori and FP growth coding portion and reviewed the report and made minor edits. 
