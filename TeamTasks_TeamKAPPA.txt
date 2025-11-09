@@ -12,7 +12,7 @@ Daniela Pedroza Rodriguez
 
 Email: dgpedroz@nmsu.edu 
 
-Task: Compiled the code and standardized, wrote conclusion and feature selection, modified report format and tables, wrote insights on the results of the model comparisons in the final sections of the notebook and finalized report. 
+Task: Wrote initial draft of the code for the E-Commerce and the Global Superstore Dataset and cooperated with team on further tasks. 
 
  
 
