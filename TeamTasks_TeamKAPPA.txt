@@ -20,7 +20,7 @@ Victoria Franco
 
 Email: vichol@nmsu.edu 
 
-Task: Integrated detailed markdown explanations for the Apriori and FP-Growth code, and restructured Sections 3–6 to align with the latest findings.
+Task: Developed the Motivation and Problem Definition section and contributed to implementing the rule-mining pipeline code and visualizations. 
 
  
 
