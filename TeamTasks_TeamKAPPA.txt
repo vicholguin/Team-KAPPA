@@ -1,5 +1,5 @@
 Course:CSCI 5415 Data Mining
-Group Project Milestone -Phase 5: Rule Miner Code
+Group Project Milestone -Phase 6: Project Results
 Group Name: KAPPA
 Data Source:
 -- Global Super Store Dataset: https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset/data
