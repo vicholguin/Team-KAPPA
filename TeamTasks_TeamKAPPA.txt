@@ -36,4 +36,4 @@ Carmen Avitia
 
 Email: cavitia@nmsu.edu 
 
-Task: Did Apiori and FP growth coding portion and reviewed the report and made minor edits. 
+Task: Developed the rule mining pipeline code and updataed the EDA section of the report.  
