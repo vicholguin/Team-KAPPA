@@ -28,7 +28,7 @@ Ying Yang
 
 Email: yy0816@nmsu.edu 
 
-Task:  Write the related Rule Miner code on both dataset, and update the Motivation & Problem Definition and EDA Analysis sections of the report.
+Task: Developing the classification modeling pipeline, generating the visualizations, and writing the corresponding section of the final report.
 
 
  
